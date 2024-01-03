@@ -24,5 +24,3 @@ Displays:
 
 ## Should I Download the Stable or Dev Version?
 <p>Since this is a simple mod, there would pretty much be no performance impact regardless if you're running the stable or development version.</p>
-Choose the "Stable" Branch for The Normal Mod.
-Choose the "Dev" Branch to Get New Features Early.
