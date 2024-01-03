@@ -5,7 +5,7 @@ What is TearStats?
 
 Displays:
 * The Amount of Time that has Passed since you Loaded into a Level
-* The Number of Voxels that have been Destroyed
+* The Distance you've Travelled since you Loaded into a Level
 
 ## Installing The Mod:
 
