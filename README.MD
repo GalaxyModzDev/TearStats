@@ -17,3 +17,8 @@ Displays:
 5. Go to Play > Mod Manager, On the Right Side (Under the Local Files Tab) TearStats Be There.
 6. Click on TearStats and Enable it.
 7. Have Fun :D
+
+## Should I Download the Stable or Dev Branch?
+<p>Since this is a simple mod, there would pretty much be no performance impact regardless if you're running the stable or development version.</p>
+Choose the "Stable" Branch for The Normal Mod.
+Choose the "Dev" Branch to Get New Features Early.
