@@ -15,12 +15,17 @@ function tick(dt)
     lastPos = GetPlayerTransform().pos
     DebugWatch("Distance Travelled Since Level Load", math.floor(distance*10)/10 .. " Voxels")
     ticktwo(dt)
+    tickthree(dt)
 end
 
 function ticktwo(dt)
     local elapsedTime = GetTime() - startTime
     DebugWatch("Time Since Loaded", math.floor(elapsedTime * 10) / 10 .. " Seconds")
 end
+
+funtion tickthree(dt)
+    DebugWatch("Voxels Destroyed Since Level Load", math.floor (destroyed*10)/10 .. " Voxels")
+    
 
 function update(dt)
 end
