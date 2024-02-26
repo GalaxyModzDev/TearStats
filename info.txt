@@ -1,7 +1,7 @@
 name = TearStats
 author = GalaxyModz
 description = Displays Statistics (Like Time Since You Loaded Into The Map, Number of Voxels that have been Destroyed, etc.) in the Top-Left Corner of your screen.
-tags = Gameplay
+tags = Tool
 
 # If description contains [noupload] the description on Steam workshop will not be overwritten.
 # Available tags (comma-separated):
