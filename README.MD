@@ -8,6 +8,14 @@ Displays:
 * The Distance you've Travelled since you Loaded into a Level
 * [SOON] The Number of Voxels that have been Destroyed
 
+## Changelog
+### v1.0
+* First Release.
+
+### v1.1
+
+* Added Number of Voxels Destroyed.
+
 ## Installing The Mod:
 
 1. Go into your Teardown Mods directory (C:\Users\YOURUSER\Documents\Teardown\mods)
