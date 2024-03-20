@@ -12,7 +12,7 @@ Displays:
 ### v1.0
 * First Release.
 
-### v1.1
+### v1.1 - Coming Soon
 
 * Added Number of Voxels Destroyed.
 
