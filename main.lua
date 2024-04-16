@@ -20,12 +20,11 @@ end
 
 function ticktwo(dt)
     local elapsedTime = GetTime() - startTime
-    DebugWatch("Time Since Loaded", math.floor(elapsedTime * 10) / 10 .. " Seconds")
+    DebugWatch("Time Since Loaded", math.floor(elapsedTime*10)/10 .. " Seconds")
 end
 
-funtion tickthree(dt)
+function tickthree(dt)
     DebugWatch("Voxels Destroyed Since Level Load", math.floor (destroyed*10)/10 .. " Voxels")
-    
 
 function update(dt)
 end
