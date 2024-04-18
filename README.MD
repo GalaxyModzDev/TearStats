@@ -12,7 +12,7 @@ Displays:
 ### v1.0
 * First Release.
 
-### v1.1 - Coming Soon
+### v1.1 - Coming May 2024
 
 * Added Number of Voxels Destroyed.
 
