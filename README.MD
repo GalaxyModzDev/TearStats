@@ -21,7 +21,7 @@ Displays:
 1. Go into your Teardown Mods directory (C:\Users\YOURUSER\Documents\Teardown\mods)
 2. Extract the Mod Files in there. 
 
-(Make sure the directory looks like this --> "C:\Users\YOURUSER\Documents\Teardown\mods\TearStats" 
+Make sure the directory looks like this --> "C:\Users\YOURUSER\Documents\Teardown\mods\TearStats" 
 
 NOT THIS --> "C:\Users\YOURUSER\Documents\Teardown\mods\TearStats\TearStats"
 
