@@ -20,8 +20,11 @@ Displays:
 
 1. Go into your Teardown Mods directory (C:\Users\YOURUSER\Documents\Teardown\mods)
 2. Extract the Mod Files in there. 
+
 (Make sure the directory looks like this --> "C:\Users\YOURUSER\Documents\Teardown\mods\TearStats" 
+
 NOT THIS --> "C:\Users\YOURUSER\Documents\Teardown\mods\TearStats\TearStats"
+
 4. Start Teardown
 5. Go to Play > Mod Manager, On the Right Side (Under the Local Files Tab) TearStats Be There.
 6. Click on TearStats and Enable it.
